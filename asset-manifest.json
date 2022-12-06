@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/c3web/static/css/main.c867402a.css",
+    "main.js": "/c3web/static/js/main.724aa7b8.js",
+    "index.html": "/c3web/index.html",
+    "main.c867402a.css.map": "/c3web/static/css/main.c867402a.css.map",
+    "main.724aa7b8.js.map": "/c3web/static/js/main.724aa7b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c867402a.css",
+    "static/js/main.724aa7b8.js"
+  ]
+}
